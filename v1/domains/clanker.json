@@ -1,0 +1,1 @@
+{"domain":"clanker.is-a.bot","subdomain":"clanker","owner":{"username":"zxyandreay"},"records":{"CNAME":"clanker-doodle.pages.dev","MX":["mx1.improvmx.com","mx2.improvmx.com"],"TXT":["v=spf1 include:spf.improvmx.com ~all"]},"proxied":true}

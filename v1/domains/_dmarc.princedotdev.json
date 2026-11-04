@@ -1,0 +1,1 @@
+{"domain":"_dmarc.princedotdev.is-a.bot","subdomain":"_dmarc.princedotdev","owner":{"username":"10xdev4u-alt"},"records":{"TXT":"v=DMARC1; p=none; rua=mailto:rua@dmarc.brevo.com"}}

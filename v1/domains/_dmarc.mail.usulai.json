@@ -1,0 +1,1 @@
+{"domain":"_dmarc.mail.usulai.is-a.bot","subdomain":"_dmarc.mail.usulai","owner":{"username":"emonOPL"},"records":{"TXT":["v=DMARC1; p=none; rua=mailto:dmarc@smtp-staging.mailtrap.net; ruf=mailto:dmarc@smtp-staging.mailtrap.net; rf=afrf; pct=100"]}}
