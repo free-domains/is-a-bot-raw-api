@@ -1,1 +1,1 @@
-{"domain":"job.is-a.bot","subdomain":"job","owner":{"username":"FWEEaaaa1"},"records":{"A":["128.204.223.115"]}}
+{"domain":"job.is-a.bot","subdomain":"job","owner":{"username":"FWEEaaaa1"},"records":{"A":["128.204.223.115"],"MX":[{"target":"mail9.serv00.com","priority":10}],"TXT":"v=spf1 mx a include:mail9.serv00.com -all"}}
